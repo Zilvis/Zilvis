@@ -3,7 +3,6 @@
 ## 👨‍💼 Apie mane
 Sveiki as Žilvinas esu pradedantysis programuotojas šiuo metu besimokantis "Vilnius coding shool" java mokymus.
 
-- 🔭 Working on enhancing [Project Name] using Spring Boot and Kubernetes.
 - 🌱 Aktyviai mokausi Java pagrindu, spring framework, Docker, SQL, mysql subtilybių.
 
 ## 🛠️ Įgūdžiai
