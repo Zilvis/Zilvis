@@ -1,27 +1,54 @@
-# Labas 👋
+# Labvas aš [Žilvinas] 🚀
 
-## Apie mane
-I'm a backend Java developer with [X] years of experience in building robust, scalable, and efficient backend systems. I specialize in Java technologies like Spring Boot, Hibernate, and Microservices architecture. Passionate about solving complex problems and continuously learning about new technologies and methodologies to improve the design and implementation of backend systems.
+## 📚 About Me
+I'm a student currently pursuing my [Bachelor’s/Master’s] degree in [Your Major, e.g., Computer Science] at [Your University]. I have a strong passion for backend development, especially with Java. I'm dedicated to learning and mastering backend technologies to build scalable and efficient applications.
 
-- 🔭 I’m currently working on [mention any project or company]
-- 🌱 I’m currently learning [mention any technology or framework]
-- 👯 I’m looking to collaborate on [mention type of projects or technologies]
-- 💬 Ask me about Java, Spring Boot, database management, or any tech-related stuff
-- 📫 How to reach me: [Your LinkedIn or other social media]
-- ⚡ Fun fact: [Something interesting about you]
+- 🎓 I’m currently studying at [University Name].
+- 🌱 I’m currently learning [e.g., Microservices, Spring Boot, cloud technologies].
+- 📝 I'm working on my thesis/project on [Thesis Topic/Project].
+- 👯 I’m looking to collaborate on [Open source projects, class projects, etc.].
+- 🤔 I’m looking for help with [Area where you need help].
+- 💼 I'm seeking internship opportunities in [Type of industries, e.g., software development, finance].
+- 📫 How to reach me: [Email, LinkedIn, or other contact information].
+- ⚡ Fun fact: [A personal tidbit].
 
-## Technical Skills
+## 🔧 Technical Skills
 - **Languages:** Java, SQL, [any other programming languages you know]
-- **Frameworks/Libraries:** Spring Boot, Hibernate, JUnit, [other frameworks/libraries]
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Maven, Docker, Jenkins, Git
-- **Others:** RESTful API development, Microservices, Security Practices (JWT, OAuth)
+- **Frameworks/Libraries:** Spring, Hibernate, [other frameworks/libraries relevant to backend]
+- **Databases:** MySQL, PostgreSQL, [Other databases]
+- **Tools:** Maven, Git, [Other tools]
+- **Other:** RESTful API development, Unit Testing with JUnit, [any other relevant skills]
 
-## Contact Me
-Feel free to connect with me on:
-- **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/%C5%BEilvinas-daug%C4%97la-993839263/)
+## 📂 Projects
+Highlighting some of my projects that reflect my passion and skills in backend development:
+
+### Project Name 1
+- **Course/Context:** [Course name or context in which you did the project]
+- **Technologies Used:** Java, Spring Boot, MySQL
+- **Description:** This project aims to [briefly describe the objective of the project].
+- **Challenges & Solutions:** [Highlight a couple of challenges and how you solved them].
+- **GitHub Link:** [URL to project]
+
+### Project Name 2
+- **Course/Context:** [Course name or context]
+- **Technologies Used:** [Technologies used]
+- **Description:** [Brief description of the project]
+- **Challenges & Solutions:** [Challenges faced and the solutions].
+- **GitHub Link:** [URL to project]
+
+## 🎓 Education
+- **[Your Degree]** in [Your Major], [Your University] - [Year of Graduation]
+  - Relevant Coursework: Advanced Java Programming, Data Structures and Algorithms, Database Systems, etc.
+
+## 📜 Certifications
+- [Certification Name], [Issuing Organization] - [Year]
+  - [Brief description of what this certification involved]
+
+## 📫 Susisiek su manimi
+- **LinkedIn:** [[LinkedIn ]](https://www.linkedin.com/in/%C5%BEilvinas-daug%C4%97la-993839263/)
+- **GitHub:** [[GitHub]](https://github.com/Zilvis/Zilvis/)
 - **Email:** zi.daugela@gmail.com
 
 ---
 
-### Thank you for visiting my GitHub profile!
+Thank you for stopping by my profile!
