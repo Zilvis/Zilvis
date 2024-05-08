@@ -18,7 +18,3 @@ Sveiki as Žilvinas esu pradedantysis programuotojas šiuo metu besimokantis "Vi
 ## 🔗 Susisiek su manimi
 - [👔 LinkedIn]([Your_LinkedIn_Profile](https://www.linkedin.com/in/%C5%BEilvinas-daug%C4%97la-993839263/))
 - [🐙 GitHub]([Your_GitHub_Profile](https://github.com/Zilvis/Zilvis/))
-
-## 🎓 Išsilavinimas
-
-![image](https://github.com/Zilvis/Zilvis/assets/21985595/c2c8cc7e-a43a-4428-95e3-bd12cdee9e0c)
